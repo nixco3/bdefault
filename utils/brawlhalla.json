@@ -1,0 +1,119 @@
+{
+	"characters": [{
+        "name": "ada",
+        "aliases": [],
+				"description": "Las oscuras corporaciones de un futuro corrupto entrenaron a Ada para que fuera lo peor que les haya pasado.‎",
+				"apodo": "El fantasma en la máquina",
+				"lanzado": "12 de noviembre de 2014 (Versión Beta 1.0)",
+				"precio": "3.900",
+				"genero": "Femenino",
+				"stats_base": {
+					"fuerza": 6,
+					"destreza": 7,
+					"defensa": 3,
+					"velocidad": 6
+				},
+				"imagen": "https://static.wikia.nocookie.net/brawlhalla_gamepedia/images/f/f9/Ada.png/revision/latest/scale-to-width-down/213?cb=20210315001847",
+				"miniatura": "https://static.wikia.nocookie.net/brawlhalla_gamepedia/images/2/20/SkinIcon_Ada_Classic.png/revision/latest/scale-to-width-down/128?cb=20160805013902",
+				"armas": ["Pistola", "Lanza"],
+				"ataques": {
+					"arma1": {
+						"arma": "pistola",
+						"neutral": "Ada salta y dispara cuatro ráfagas verdes de sus armas que explotan al contacto con el suelo.",
+						"lateral": "‎Ada lleva sus armas hacia adelante y dispara un láser corto y verde de sus armas. El láser golpea varios antes de lanzar al oponente.",
+						"abajo": "‎Ada dispara dos explosiones verdes más pequeñas y luego una explosión verde muy grande. Los disparos se combinan entre sí. Ada recibe retroceso hacia atrás."
+					},
+					"arma2": {
+						"arma": "lanza",
+						"neutral": "Ada salta y balancea su lanza.",
+						"lateral": "Ada hace un corte rápido con su lanza.",
+						"abajo": "Ada hace un breakdance y se mueve un poco hacia adelante."
+					}
+				},
+				"skins": [{
+					"nombre": "Technomancer Ada",
+					"precio": "{mamut} 140"
+				}, {
+					"nombre": "Fatal Error Ada",
+					"precio": "{mamut} 140"
+				}, {
+					"nombre": "DJ Ada",
+					"precio": "{mamut} 140"
+				}, {
+					"nombre": "Vixen Ada",
+					"precio": "{mamut} 140"
+				}, {
+					"nombre": "Wasteland Ada",
+					"precio": "{mamut} 140"
+				}, {
+					"nombre": "Atlantean Ada",
+					"precio": "Exclusivo del cofre Hundido"
+				}, {
+					"nombre": "Detention Ada",
+					"precio": "{mamut} 140 · Exclusivo del evento De Vuelta A La Escuela"
+				}, {
+					"nombre": "Stormlord Ada",
+					"precio": "Exclusivo del cofre Elemental"
+				}, {
+					"nombre": "Lovelaced Ada",
+					"precio": "{mamut} 140 · Exclusivo del Valhallentin"
+				}, {
+					"nombre": "Heatblast (Ben 10 Crossover)",
+					"precio": "{mamut} 300"
+				}, {
+					"nombre": "Astral Core Ada",
+					"precio": "Nivel 23 · Temporada 5"
+				}],
+				"datos": ["‎Ada, junto con ‎‎Scarlet‎‎ y ‎‎Sentinel‎‎, fueron las primeras Legends en ser lanzadas en la fase Beta Cerrada de Brawlhalla.‎"]
+		}, {
+        "name": "artemis",
+        "aliases": ["artemisa"],
+				"description": "Cataclismo desde más allá de las estrellas.",
+				"apodo": "La respuesta",
+				"lanzado": "14 de junio de 2017 (Versión Beta 2.65)",
+				"precio": "5.400",
+				"genero": "Femenino",
+				"stats_base": {
+					"fuerza": 5,
+					"destreza": 5,
+					"defensa": 4,
+					"velocidad": 8
+				},
+				"miniatura": "https://static.wikia.nocookie.net/brawlhalla_gamepedia/images/5/5b/SkinIcon_Artemis_Classic.png/revision/latest/scale-to-width-down/128?cb=20180704222249",
+				"imagen": "https://static.wikia.nocookie.net/brawlhalla_gamepedia/images/d/d2/Artemis.png/revision/latest/scale-to-width-down/199?cb=20210315011328",
+				"ataques": null,
+				"armas": ["Lanza Cohete", "Guadaña"],
+				"skins": [{
+					"nombre": "Darkheart Artemis",
+					"precio": "{mamut} 200"
+				}, {
+					"nombre": "Iron Lady Artemis",
+					"precio": "{mamut} 140"
+				},{
+					"nombre": "Eclipse Artemis",
+					"precio": "{mamut} 140"
+				},{
+					"nombre": "Seraph Artemis",
+					"precio": "Exclusivo del Cofre Celestial"
+				},{
+					"nombre": "Street Race Artemis",
+					"precio": "{mamut} 140"
+				},{
+					"nombre": "Future Spirit Artemis",
+					"precio": "{mamut} 140 · Exclusivo del Barlhallidays"
+				},{
+					"nombre": "Slapshot Artemis",
+					"precio": "{mamut} 140"
+				},{
+					"nombre": "Netherworld Artemis",
+					"precio": "Nivel 23 · Temporada 1"
+				},{
+					"nombre": "Demon Rider Artemis",
+					"precio": "{mamut} 140 · Exclusivo del Brawlhalloween"
+				},{
+					"nombre": "Event Horizon Artemis",
+					"precio": "Nivel 1 · Temporada 5"
+				}],
+				"datos": ["‎Artemis puede haber sido nombrada después ‎‎de Artemisa de la mitología griega‎‎, que es la diosa de la luna.‎", "En el sitio web de Brawlhalla, las citas en su tradición son diferentes a las de la página Meet the Legends del juego. La cita de Lance Starchampion es reemplazada por \"Crecen tan rápido\". – ‎‎El Universo, probablemente.‎"]
+		}]
+}
